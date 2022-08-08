@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TailsMenu.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tails0000" x="15" y="15" width="822" height="894"/>
+	<SubTexture name="Tails0001" x="15" y="15" width="822" height="894"/>
+	<SubTexture name="Tails0002" x="852" y="15" width="822" height="894"/>
+	<SubTexture name="Tails0003" x="15" y="924" width="822" height="894"/>
+	<SubTexture name="Tails0004" x="852" y="924" width="822" height="894"/>
+	<SubTexture name="Tails0005" x="852" y="924" width="822" height="894"/>
+	<SubTexture name="Tails0006" x="15" y="1833" width="822" height="894"/>
+	<SubTexture name="Tails0007" x="15" y="1833" width="822" height="894"/>
+	<SubTexture name="Tails0008" x="15" y="1833" width="822" height="894"/>
+	<SubTexture name="Tails0009" x="15" y="1833" width="822" height="894"/>
+	<SubTexture name="Tails0010" x="15" y="1833" width="822" height="894"/>
+	<SubTexture name="Tails0011" x="15" y="1833" width="822" height="894"/>
+	<SubTexture name="Tails0012" x="15" y="1833" width="822" height="894"/>
+	<SubTexture name="Tails0013" x="15" y="1833" width="822" height="894"/>
+</TextureAtlas>
